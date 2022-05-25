@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Welcome to ACADA Learning"
+echo "This is DevOps Master Program (Cohort 7)"
+echo "At the end of the cohort everyone will be hired"
+echo "Glory be to God"
+date
+whoami
+pwd
