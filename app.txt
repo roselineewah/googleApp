@@ -6,4 +6,5 @@ echo "Glory be to God"
 date
 whoami
 pwd
-#modify file to ask user for username"
+#  modify file to ask user for username"
+add  roselineewah19@gmail.com 
