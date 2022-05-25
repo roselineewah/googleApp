@@ -6,3 +6,4 @@ echo "Glory be to God"
 date
 whoami
 pwd
+#modify file to ask user for username"
